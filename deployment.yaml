@@ -11,7 +11,7 @@ spec:
   template:
     metadata:
       name: mytemp
-      label:
+      labels:
         app: swiggy
     spec:
       containers:
