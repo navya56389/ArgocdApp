@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: mycont
-          image: shaikmustafa/dm
+          image: shaikmustafa/paytm:movie
           ports:
             - containerPort: 80
